@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "2024-11-02_21-57-25")(type "KiCad")(uri "C:/Users/ssmoo/personal/berkeley/fa24/hope/TLV61048DBVR/KiCADv6/2024-11-02_21-57-25.kicad_sym")(options "")(descr ""))
+  (lib (name "esp32")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries-main/symbols/Espressif.kicad_sym")(options "")(descr ""))
 )
